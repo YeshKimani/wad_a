@@ -1,0 +1,26 @@
+
+        header{
+            background-color: beige;
+            padding: 20px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+ a{align-items: center;
+    text-underline-position: below;
+    color: black;
+    text-decoration:underline brown;
+    transition: color 0.3s ease-in-out;
+ }
+ a:hover {
+    color: #000;
+ }
+ body
+ {
+    background-color: burlywood;
+ }
+ h1{
+    font-size: 4em;
+    margin: 0;
+    align-items:center;
+ }
