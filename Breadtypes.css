@@ -1,0 +1,27 @@
+b{
+background-color: beige;
+padding: 20px 0;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+body{
+    background-color: burlywood;
+}
+
+
+a{align-items: center;
+    text-underline-position: below;
+    color: black;
+    text-decoration:underline brown;
+    transition: color 0.3s ease-in-out;
+ }
+ a:hover {
+    color: #000;
+ }
+h1{
+    font-size: 4em;
+    margin: 0;
+    color: brown;
+    align-items: center;
+}
