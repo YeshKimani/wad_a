@@ -1,0 +1,50 @@
+body{
+    background-image: url(Images/this\ is\ definetly\ in.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+background-size: cover;
+padding-left: 8%;
+padding-right: 33%;
+}
+ header{
+
+    text-align: right;
+ }
+
+a{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+header u a {
+    list-style: none;
+    display: inline-block;
+    margin-left:60px ;
+}
+header u a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    border-style:dotted;
+    border: 1px solid;
+    border-color:#007bff ;
+    padding: 10px;
+}
+.row{
+    display: flex;
+    height: 88%;
+    align-items: center;
+}
+.col{
+    color: #fff;
+    flex-basis: 50%;
+}
+h1{
+    font-size: 100px;
+    color: #fff;
+}
+a:hover{
+  color: #007bff;  
+}
