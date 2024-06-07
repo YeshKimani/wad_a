@@ -13,13 +13,17 @@ header {
     align-items: center;
     padding: 10px 20px;
     background-color: #090909;
-    border-bottom: 1px solid rgb(0, 102, 228);
+    border-bottom: 1px solid  #cdcccc ;
 }
 
 .left a {
     text-decoration: none;
-    color:rgb(0, 102, 228);
+    color:#575757;
     font-size: 24px;
+}
+.left a:hover{
+    background-color: #cdcccc;
+    color: white;
 }
 
 .right {
@@ -43,7 +47,7 @@ nav {
 
 .menu li a {
     display: block;
-    color:rgb(0, 102, 228);
+    color:#575757;
     padding: 14px 20px;
     text-decoration: none;
 }
@@ -79,4 +83,25 @@ nav {
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+.homeh{
+    padding-top: 25%;
+    padding-left: 4%;
+    font-size: 50%;
+    color:   #575757;
+}
+.homep{
+    font-size: 100%;
+    color: #575757;
+    padding-left: 4%;
+}
+footer{
+  
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 0.1px ;
+        position: absolute;
+        width: 100%;
+    
 }
