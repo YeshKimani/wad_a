@@ -1,5 +1,5 @@
 body{
-    background-image: url(Images/this\ is\ definetly\ in.png);
+    background-image: url(Images/Concluded.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -98,18 +98,31 @@ nav {
 
    
 }
-.abouth{
-    padding-top: 25%;
+.about{
+    padding-top: 5%;
     padding-left: 4%;
-    font-size: 50%;
+    font-size: 60%;
     color:   #cac4c4;
 }
-.aboutp{
-    font-size: 100%;
-    color: #cac4c4;
-    padding-left: 4%;
-    
+.about h3{
+    font-size: 36px;
+    margin-bottom: 20px;    
 }
+.about h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+about h3{
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.about p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+
 footer .foot{
   
         background-color: #333;
