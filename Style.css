@@ -94,14 +94,29 @@ nav {
     font-size: 100%;
     color: #575757;
     padding-left: 4%;
+    
+
+   
 }
-footer{
+.abouth{
+    padding-top: 25%;
+    padding-left: 4%;
+    font-size: 50%;
+    color:   #575757;
+}
+.aboutp{
+    font-size: 100%;
+    color: #575757;
+    padding-left: 4%;
+    
+}
+footer .foot{
   
         background-color: #333;
         color: #fff;
         text-align: center;
-        padding: 0.1px ;
-        position: absolute;
+        padding : 5px ;
+        position: below;
         width: 100%;
     
 }
