@@ -2,6 +2,7 @@
 $servername="localhost";
 $username= "root";
 $password="";
+$dbname="sentinel";
 // Create connection
 $conn = new mysqli($servername,$username,$password);
 //check connection
