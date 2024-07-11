@@ -11,8 +11,7 @@
 </head>
 <body >
     <header>
-        <?php include_once ("Templates/nav.php"); ?>
-  <?php include_once ("Templates/header.php"); ?>
+       
 </header>
 <div class="homeh">
     <h1>Protecting Your Digital Future <br> with Innovative Cybersecurity Solutions. 
