@@ -11,6 +11,7 @@
 </head>
 <body >
     <header>
+        <?php include_once ("Templates/nav.php"); ?>
   <?php include_once ("Templates/header.php"); ?>
 </header>
 <div class="homeh">

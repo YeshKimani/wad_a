@@ -1,25 +1,10 @@
-
-    
-    <div class="left">
-       
-        <a href="index.html"> <i class="fa-solid fa-house fa-bounce"></i></a>
-        
-    
-    </div>
-    <div class="right">
-        <nav>
-            <ul class="menu">
-                
-                <li class="dropdown">
-                    <a href="aboutus.html" class="dropbtn">ABOUT US</a>
-                    <ul class="dropdown-content">
-                        <li>Our Team</li>
-                        <li>Our Mission</li>
-                        <li>Our History</li>
-                    </ul>
-                </li>
-                <li><a href="Contacts.html">CONTACT US</a></li>
-            </ul>
-        </nav>
-    </div>
-    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us-Sentinel Security</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/1fa7f09028.js" crossorigin="anonymous"></script>
+</head>
+<body>
